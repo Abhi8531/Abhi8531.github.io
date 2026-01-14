@@ -30,7 +30,7 @@ A modern, responsive portfolio website built with React.js and Tailwind CSS.
 
 ```bash
 # Clone the repository
-git clone https://github.com/abhi8531/portfolio.git
+git clone https://github.com/Abhi8531/Abhi8531.github.io.git
 cd portfolio
 
 # Install dependencies
